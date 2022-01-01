@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/menuHome" android:title="Home" android:icon="@drawable/ic_action_name" android:checked="true"/>
+        <item android:id="@+id/menuGallery" android:title="Gallery" android:icon="@drawable/ic_gallery"/>
+        <item android:title="Slideshow" android:icon="@drawable/ic_slideshow"/>
+        <item android:title="Tools" android:icon="@drawable/ic_tools"/>
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:title="Share" android:icon="@drawable/ic_share"/>
+                <item android:title="Send" android:icon="@drawable/ic_send"/>
+            </group>
+        </menu>
+    </item>
+</menu>

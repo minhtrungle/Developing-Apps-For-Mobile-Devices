@@ -1,0 +1,10 @@
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\Xamarin Example.UWP.csprojAssemblyReference.cache
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\App.g.i.cs
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\App.g.cs
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\App.xaml
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\MainPage.xaml
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\App.xbf
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\MainPage.xbf
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example.UWP\obj\x86\Debug\XamlSaveStateFile.xml

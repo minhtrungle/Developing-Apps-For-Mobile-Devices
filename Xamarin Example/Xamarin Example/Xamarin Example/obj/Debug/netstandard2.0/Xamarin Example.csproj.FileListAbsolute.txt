@@ -1,0 +1,14 @@
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\bin\Debug\netstandard2.0\Xamarin Example.deps.json
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\bin\Debug\netstandard2.0\Xamarin Example.dll
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\bin\Debug\netstandard2.0\ref\Xamarin Example.dll
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\bin\Debug\netstandard2.0\Xamarin Example.pdb
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\Xamarin Example.csprojAssemblyReference.cache
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\Xamarin Example.AssemblyInfoInputs.cache
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\Xamarin Example.AssemblyInfo.cs
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\Xamarin Example.csproj.CoreCompileInputs.cache
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\Xamarin Example.dll
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\ref\Xamarin Example.dll
+C:\Lectures 2020-1\Mobile Prog\Xamarin Example\Xamarin Example\Xamarin Example\obj\Debug\netstandard2.0\Xamarin Example.pdb

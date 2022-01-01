@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a14024421fe8e346c2a774826ec56e97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7321c469084b0bf1c88eb6ece52647db\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\98ad37e13eaa6abd26b9df22bf6caebf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\728e8fd5e510c3e3e91057a88915e2d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a7eb522ebb971e3635976fb7e3d9aba1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0671df2dc68d3b36643f855fbdc8bd3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\87c46aeb07ee84281c46e8c82d7165fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\43bd9c83258082bf1d96e7032f73e28d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5945481763d2e282cd0996a7198b5c17\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\403979c05c7fa1ee8ee3e1acb705a1be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9070b53179a95e2615324fa7b475ecf3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\393e14b243290cbca5a21fb35495788d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+	package
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:21:5-43
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:11-69
+application
+ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:23:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7321c469084b0bf1c88eb6ece52647db\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7321c469084b0bf1c88eb6ece52647db\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.android.example.notifyme.MainActivity
+ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:30:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a14024421fe8e346c2a774826ec56e97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a14024421fe8e346c2a774826ec56e97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7321c469084b0bf1c88eb6ece52647db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7321c469084b0bf1c88eb6ece52647db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\98ad37e13eaa6abd26b9df22bf6caebf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\98ad37e13eaa6abd26b9df22bf6caebf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\728e8fd5e510c3e3e91057a88915e2d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\728e8fd5e510c3e3e91057a88915e2d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a7eb522ebb971e3635976fb7e3d9aba1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a7eb522ebb971e3635976fb7e3d9aba1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0671df2dc68d3b36643f855fbdc8bd3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0671df2dc68d3b36643f855fbdc8bd3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\87c46aeb07ee84281c46e8c82d7165fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\87c46aeb07ee84281c46e8c82d7165fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\43bd9c83258082bf1d96e7032f73e28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\43bd9c83258082bf1d96e7032f73e28d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5945481763d2e282cd0996a7198b5c17\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5945481763d2e282cd0996a7198b5c17\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\403979c05c7fa1ee8ee3e1acb705a1be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\403979c05c7fa1ee8ee3e1acb705a1be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9070b53179a95e2615324fa7b475ecf3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9070b53179a95e2615324fa7b475ecf3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\393e14b243290cbca5a21fb35495788d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\393e14b243290cbca5a21fb35495788d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Lectures 2020-1\Mobile Prog\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
