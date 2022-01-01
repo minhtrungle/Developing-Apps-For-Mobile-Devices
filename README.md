@@ -1,1 +1,1 @@
-# Developing-Apps-For-Mobile-Devices
+# Source code thực hành (file app)
